@@ -1,6 +1,7 @@
 package com.github.demideinherjar.webexampleproject.repository.entity;
 
 
+import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
